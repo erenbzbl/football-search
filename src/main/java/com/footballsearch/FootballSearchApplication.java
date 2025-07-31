@@ -1,0 +1,13 @@
+package com.footballsearch;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class FootballSearchApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(FootballSearchApplication.class, args);
+	}
+
+}
